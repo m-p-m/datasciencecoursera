@@ -1,4 +1,4 @@
 datasciencecoursera
 ===================
 
-Data Sceintists Toolbox test repo
+Data Scientists Toolbox test repo
